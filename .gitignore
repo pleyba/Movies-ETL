@@ -14,3 +14,4 @@ __pycache__/config.cpython-37.pyc
 Resources/movies_metadata.csv
 Resources/ratings.csv
 Resources/wikipedia-movies.json
+.ipynb_checkpoints/ETL_clean_wiki_movies-checkpoint.ipynb
