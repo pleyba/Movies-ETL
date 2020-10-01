@@ -10,3 +10,7 @@ __pycache__/config.cpython-37.pyc
 .ipynb_checkpoints/ETL-checkpoint.ipynb
 .ipynb_checkpoints/ETL-checkpoint.ipynb
 .ipynb_checkpoints/ETL-checkpoint.ipynb
+.ipynb_checkpoints/ETL_function_test-checkpoint.ipynb
+Resources/movies_metadata.csv
+Resources/ratings.csv
+Resources/wikipedia-movies.json
