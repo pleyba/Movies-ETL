@@ -5,3 +5,7 @@ Data/movies_metadata.csv.zip
 Data/ratings.csv.zip
 Data/ratings.csv
 config.py
+__pycache__/config.cpython-37.pyc
+.ipynb_checkpoints/ETL-checkpoint.ipynb
+.ipynb_checkpoints/ETL-checkpoint.ipynb
+.ipynb_checkpoints/ETL-checkpoint.ipynb
