@@ -15,3 +15,5 @@ Resources/movies_metadata.csv
 Resources/ratings.csv
 Resources/wikipedia-movies.json
 .ipynb_checkpoints/ETL_clean_wiki_movies-checkpoint.ipynb
+.ipynb_checkpoints/ETL_clean_kaggle_data-checkpoint.ipynb
+.ipynb_checkpoints/ETL_Deliverable3_starter_code-checkpoint.ipynb
