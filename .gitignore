@@ -4,3 +4,4 @@ Data/movies_metadata.csv
 Data/movies_metadata.csv.zip
 Data/ratings.csv.zip
 Data/ratings.csv
+config.py
